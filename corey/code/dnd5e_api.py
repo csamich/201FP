@@ -1,11 +1,3 @@
-"""
-dnd5e_api.py
-API/website functions only.
-
-Uses the D&D 5e API (2014 SRD) spells endpoint.
-Only extracts name, school, and level.
-"""
-
 from __future__ import annotations
 
 import random

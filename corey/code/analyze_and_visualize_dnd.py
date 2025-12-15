@@ -1,26 +1,13 @@
-"""
-analyze_and_visualize.py
-
-Reads from the SQLite database, performs calculations with JOINs,
-writes a text summary, and creates visualizations:
-
-1) Pie chart: percentage of spells by school
-2) Pastel grouped bar chart:
-   For each school:
-     - count of spells level 1-5
-     - count of spells level 6-9
-"""
-
 from __future__ import annotations
 
 import sqlite3
 from typing import Dict, List, Tuple
-
+from pathlib import Path
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-DB_PATH = "GamerSoups_final_project.sqlite"
+DB_PATH = Path(__file__).resolve().parents[2] / "GamerSoups_final_project.sqlite"
 
 
 def connect_db(path: str = DB_PATH) -> sqlite3.Connection:
@@ -174,9 +161,9 @@ def main() -> None:
             print("No spells found. Run ingest_to_db.py multiple times first (until you have 100+ spells).")
             return
 
-        write_text_summary(school_counts, bucket_counts)
-        pie_spells_by_school(school_counts)
-        pastel_grouped_bar(bucket_counts)
+        write_text_summary(school_counts, bucket_counts, Path(__file__).resolve().parents[1] / "output" / "spell_summary.txt")
+        pie_spells_by_school(school_counts, Path(__file__).resolve().parents[1] / "output" / "spells_by_school_pie.png")
+        pastel_grouped_bar(bucket_counts, Path(__file__).resolve().parents[1] / "output" / "spells_level_buckets_by_school.png")
 
     finally:
         conn.close()

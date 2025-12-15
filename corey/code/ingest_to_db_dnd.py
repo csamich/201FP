@@ -1,28 +1,11 @@
-"""
-ingest_to_db.py
-
-Ingests ONLY spell name, school, and level into ONE SQLite database.
-
-Tables:
-- spells
-- schools
-- levels
-
-Per run:
-- Inserts <= 25 NEW spells
-- No duplicate data
-"""
-
 from __future__ import annotations
-
 import sqlite3
 from typing import Dict, Optional
-
 import requests
-
+from pathlib import Path
 from dnd5e_api import list_spells, fetch_spell_detail_trimmed
 
-DB_PATH = "GamerSoups_final_project.sqlite"
+DB_PATH = Path(__file__).resolve().parents[2] / "GamerSoups_final_project.sqlite"
 MAX_NEW_PER_RUN = 25
 
 
