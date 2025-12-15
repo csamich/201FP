@@ -12,11 +12,11 @@ Spells by School (Top 10)
 - Necromancy: 24 (7.52%)
 
 Counts by School and Level Bucket
-- Evocation: 1–5 = 37, 6–9 = 16
-- Transmutation: 1–5 = 39, 6–9 = 14
-- Conjuration: 1–5 = 30, 6–9 = 18
-- Abjuration: 1–5 = 29, 6–9 = 9
-- Divination: 1–5 = 24, 6–9 = 3
-- Enchantment: 1–5 = 21, 6–9 = 7
-- Illusion: 1–5 = 21, 6–9 = 5
-- Necromancy: 1–5 = 12, 6–9 = 10
+- Evocation: 1–5 = 37, 6–9 = 16, Difference = 21
+- Transmutation: 1–5 = 39, 6–9 = 14, Difference = 25
+- Conjuration: 1–5 = 30, 6–9 = 18, Difference = 12
+- Abjuration: 1–5 = 29, 6–9 = 9, Difference = 20
+- Divination: 1–5 = 24, 6–9 = 3, Difference = 21
+- Enchantment: 1–5 = 21, 6–9 = 7, Difference = 14
+- Illusion: 1–5 = 21, 6–9 = 5, Difference = 16
+- Necromancy: 1–5 = 12, 6–9 = 10, Difference = 2

@@ -80,7 +80,7 @@ def write_text_summary(
         for school, _ in school_counts:
             low = bucket_map.get((school, "1–5"), 0)
             high = bucket_map.get((school, "6–9"), 0)
-            f.write(f"- {school}: 1–5 = {low}, 6–9 = {high}\n")
+            f.write(f"- {school}: 1–5 = {low}, 6–9 = {high}, Difference = {abs(low-high)}\n")
 
     print(f"Wrote {out_path}")
 
