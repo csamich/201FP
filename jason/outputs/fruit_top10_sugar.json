@@ -1,0 +1,52 @@
+[
+  {
+    "fruit": "Jackfruit",
+    "family": "Moraceae",
+    "sugar": 19.1
+  },
+  {
+    "fruit": "Persimmon",
+    "family": "Ebenaceae",
+    "sugar": 18.0
+  },
+  {
+    "fruit": "Banana",
+    "family": "Musaceae",
+    "sugar": 17.2
+  },
+  {
+    "fruit": "Mangosteen",
+    "family": "Clusiaceae",
+    "sugar": 16.11
+  },
+  {
+    "fruit": "Fig",
+    "family": "Moraceae",
+    "sugar": 16.0
+  },
+  {
+    "fruit": "Grape",
+    "family": "Vitaceae",
+    "sugar": 16.0
+  },
+  {
+    "fruit": "Lychee",
+    "family": "Sapindaceae",
+    "sugar": 15.0
+  },
+  {
+    "fruit": "Mango",
+    "family": "Anacardiaceae",
+    "sugar": 13.7
+  },
+  {
+    "fruit": "Pomegranate",
+    "family": "Lythraceae",
+    "sugar": 13.7
+  },
+  {
+    "fruit": "Japanese Persimmon",
+    "family": " Ebenaceae",
+    "sugar": 13.0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "type": "fire",
+    "avg_total_stats": 429.6666666666667,
+    "count": 9
+  },
+  {
+    "type": "water",
+    "avg_total_stats": 408.27777777777777,
+    "count": 18
+  },
+  {
+    "type": "ghost",
+    "avg_total_stats": 405.0,
+    "count": 3
+  },
+  {
+    "type": "psychic",
+    "avg_total_stats": 404.2,
+    "count": 5
+  },
+  {
+    "type": "grass",
+    "avg_total_stats": 403.6666666666667,
+    "count": 9
+  },
+  {
+    "type": "fairy",
+    "avg_total_stats": 403.0,
+    "count": 2
+  },
+  {
+    "type": "fighting",
+    "avg_total_stats": 395.0,
+    "count": 5
+  },
+  {
+    "type": "rock",
+    "avg_total_stats": 392.5,
+    "count": 4
+  },
+  {
+    "type": "electric",
+    "avg_total_stats": 385.0,
+    "count": 5
+  },
+  {
+    "type": "poison",
+    "avg_total_stats": 379.0833333333333,
+    "count": 12
+  },
+  {
+    "type": "normal",
+    "avg_total_stats": 360.07142857142856,
+    "count": 14
+  },
+  {
+    "type": "ground",
+    "avg_total_stats": 360.0,
+    "count": 4
+  },
+  {
+    "type": "bug",
+    "avg_total_stats": 303.5,
+    "count": 10
+  }
+]

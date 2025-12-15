@@ -1,0 +1,782 @@
+[
+  {
+    "family": " Ebenaceae",
+    "nutrient": "calories",
+    "avg_value": 70.0,
+    "rows": 1
+  },
+  {
+    "family": " Ebenaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 19.0,
+    "rows": 1
+  },
+  {
+    "family": " Ebenaceae",
+    "nutrient": "fat",
+    "avg_value": 0.2,
+    "rows": 1
+  },
+  {
+    "family": " Ebenaceae",
+    "nutrient": "protein",
+    "avg_value": 0.6,
+    "rows": 1
+  },
+  {
+    "family": " Ebenaceae",
+    "nutrient": "sugar",
+    "avg_value": 13.0,
+    "rows": 1
+  },
+  {
+    "family": "Actinidiaceae",
+    "nutrient": "calories",
+    "avg_value": 61.0,
+    "rows": 2
+  },
+  {
+    "family": "Actinidiaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 14.8,
+    "rows": 2
+  },
+  {
+    "family": "Actinidiaceae",
+    "nutrient": "fat",
+    "avg_value": 0.5,
+    "rows": 2
+  },
+  {
+    "family": "Actinidiaceae",
+    "nutrient": "protein",
+    "avg_value": 1.12,
+    "rows": 2
+  },
+  {
+    "family": "Actinidiaceae",
+    "nutrient": "sugar",
+    "avg_value": 8.95,
+    "rows": 2
+  },
+  {
+    "family": "Anacardiaceae",
+    "nutrient": "calories",
+    "avg_value": 60.0,
+    "rows": 1
+  },
+  {
+    "family": "Anacardiaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 15.0,
+    "rows": 1
+  },
+  {
+    "family": "Anacardiaceae",
+    "nutrient": "fat",
+    "avg_value": 0.38,
+    "rows": 1
+  },
+  {
+    "family": "Anacardiaceae",
+    "nutrient": "protein",
+    "avg_value": 0.82,
+    "rows": 1
+  },
+  {
+    "family": "Anacardiaceae",
+    "nutrient": "sugar",
+    "avg_value": 13.7,
+    "rows": 1
+  },
+  {
+    "family": "Annonaceae",
+    "nutrient": "calories",
+    "avg_value": 92.0,
+    "rows": 1
+  },
+  {
+    "family": "Annonaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 19.1,
+    "rows": 1
+  },
+  {
+    "family": "Annonaceae",
+    "nutrient": "fat",
+    "avg_value": 0.29,
+    "rows": 1
+  },
+  {
+    "family": "Annonaceae",
+    "nutrient": "protein",
+    "avg_value": 1.5,
+    "rows": 1
+  },
+  {
+    "family": "Annonaceae",
+    "nutrient": "sugar",
+    "avg_value": 3.4,
+    "rows": 1
+  },
+  {
+    "family": "Betulaceae",
+    "nutrient": "calories",
+    "avg_value": 628.0,
+    "rows": 1
+  },
+  {
+    "family": "Betulaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 17.0,
+    "rows": 1
+  },
+  {
+    "family": "Betulaceae",
+    "nutrient": "fat",
+    "avg_value": 61.0,
+    "rows": 1
+  },
+  {
+    "family": "Betulaceae",
+    "nutrient": "protein",
+    "avg_value": 15.0,
+    "rows": 1
+  },
+  {
+    "family": "Betulaceae",
+    "nutrient": "sugar",
+    "avg_value": 4.3,
+    "rows": 1
+  },
+  {
+    "family": "Bromeliaceae",
+    "nutrient": "calories",
+    "avg_value": 50.0,
+    "rows": 1
+  },
+  {
+    "family": "Bromeliaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 13.12,
+    "rows": 1
+  },
+  {
+    "family": "Bromeliaceae",
+    "nutrient": "fat",
+    "avg_value": 0.12,
+    "rows": 1
+  },
+  {
+    "family": "Bromeliaceae",
+    "nutrient": "protein",
+    "avg_value": 0.54,
+    "rows": 1
+  },
+  {
+    "family": "Bromeliaceae",
+    "nutrient": "sugar",
+    "avg_value": 9.85,
+    "rows": 1
+  },
+  {
+    "family": "Cactaceae",
+    "nutrient": "calories",
+    "avg_value": 48.0,
+    "rows": 2
+  },
+  {
+    "family": "Cactaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 8.0,
+    "rows": 2
+  },
+  {
+    "family": "Cactaceae",
+    "nutrient": "fat",
+    "avg_value": 0.95,
+    "rows": 2
+  },
+  {
+    "family": "Cactaceae",
+    "nutrient": "protein",
+    "avg_value": 5.0,
+    "rows": 2
+  },
+  {
+    "family": "Cactaceae",
+    "nutrient": "sugar",
+    "avg_value": 5.5,
+    "rows": 2
+  },
+  {
+    "family": "Caricaceae",
+    "nutrient": "calories",
+    "avg_value": 39.0,
+    "rows": 1
+  },
+  {
+    "family": "Caricaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 5.8,
+    "rows": 1
+  },
+  {
+    "family": "Caricaceae",
+    "nutrient": "fat",
+    "avg_value": 0.3,
+    "rows": 1
+  },
+  {
+    "family": "Caricaceae",
+    "nutrient": "protein",
+    "avg_value": 0.5,
+    "rows": 1
+  },
+  {
+    "family": "Caricaceae",
+    "nutrient": "sugar",
+    "avg_value": 4.4,
+    "rows": 1
+  },
+  {
+    "family": "Clusiaceae",
+    "nutrient": "calories",
+    "avg_value": 73.0,
+    "rows": 1
+  },
+  {
+    "family": "Clusiaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 17.91,
+    "rows": 1
+  },
+  {
+    "family": "Clusiaceae",
+    "nutrient": "fat",
+    "avg_value": 0.58,
+    "rows": 1
+  },
+  {
+    "family": "Clusiaceae",
+    "nutrient": "protein",
+    "avg_value": 0.41,
+    "rows": 1
+  },
+  {
+    "family": "Clusiaceae",
+    "nutrient": "sugar",
+    "avg_value": 16.11,
+    "rows": 1
+  },
+  {
+    "family": "Cucurbitaceae",
+    "nutrient": "calories",
+    "avg_value": 33.25,
+    "rows": 4
+  },
+  {
+    "family": "Cucurbitaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 7.04,
+    "rows": 4
+  },
+  {
+    "family": "Cucurbitaceae",
+    "nutrient": "fat",
+    "avg_value": 0.44,
+    "rows": 4
+  },
+  {
+    "family": "Cucurbitaceae",
+    "nutrient": "protein",
+    "avg_value": 0.87,
+    "rows": 4
+  },
+  {
+    "family": "Cucurbitaceae",
+    "nutrient": "sugar",
+    "avg_value": 4.45,
+    "rows": 4
+  },
+  {
+    "family": "Ebenaceae",
+    "nutrient": "calories",
+    "avg_value": 81.0,
+    "rows": 1
+  },
+  {
+    "family": "Ebenaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 18.0,
+    "rows": 1
+  },
+  {
+    "family": "Ebenaceae",
+    "nutrient": "fat",
+    "avg_value": 0.0,
+    "rows": 1
+  },
+  {
+    "family": "Ebenaceae",
+    "nutrient": "protein",
+    "avg_value": 0.0,
+    "rows": 1
+  },
+  {
+    "family": "Ebenaceae",
+    "nutrient": "sugar",
+    "avg_value": 18.0,
+    "rows": 1
+  },
+  {
+    "family": "Ericaceae",
+    "nutrient": "calories",
+    "avg_value": 48.0,
+    "rows": 2
+  },
+  {
+    "family": "Ericaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 11.75,
+    "rows": 2
+  },
+  {
+    "family": "Ericaceae",
+    "nutrient": "fat",
+    "avg_value": 0.22000000000000003,
+    "rows": 2
+  },
+  {
+    "family": "Ericaceae",
+    "nutrient": "protein",
+    "avg_value": 0.575,
+    "rows": 2
+  },
+  {
+    "family": "Ericaceae",
+    "nutrient": "sugar",
+    "avg_value": 4.87,
+    "rows": 2
+  },
+  {
+    "family": "Grossulariaceae",
+    "nutrient": "calories",
+    "avg_value": 44.0,
+    "rows": 1
+  },
+  {
+    "family": "Grossulariaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 10.0,
+    "rows": 1
+  },
+  {
+    "family": "Grossulariaceae",
+    "nutrient": "fat",
+    "avg_value": 0.6,
+    "rows": 1
+  },
+  {
+    "family": "Grossulariaceae",
+    "nutrient": "protein",
+    "avg_value": 0.9,
+    "rows": 1
+  },
+  {
+    "family": "Grossulariaceae",
+    "nutrient": "sugar",
+    "avg_value": 0.0,
+    "rows": 1
+  },
+  {
+    "family": "Lauraceae",
+    "nutrient": "calories",
+    "avg_value": 160.0,
+    "rows": 1
+  },
+  {
+    "family": "Lauraceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 8.53,
+    "rows": 1
+  },
+  {
+    "family": "Lauraceae",
+    "nutrient": "fat",
+    "avg_value": 14.66,
+    "rows": 1
+  },
+  {
+    "family": "Lauraceae",
+    "nutrient": "protein",
+    "avg_value": 2.0,
+    "rows": 1
+  },
+  {
+    "family": "Lauraceae",
+    "nutrient": "sugar",
+    "avg_value": 0.66,
+    "rows": 1
+  },
+  {
+    "family": "Lythraceae",
+    "nutrient": "calories",
+    "avg_value": 83.0,
+    "rows": 1
+  },
+  {
+    "family": "Lythraceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 18.7,
+    "rows": 1
+  },
+  {
+    "family": "Lythraceae",
+    "nutrient": "fat",
+    "avg_value": 1.2,
+    "rows": 1
+  },
+  {
+    "family": "Lythraceae",
+    "nutrient": "protein",
+    "avg_value": 1.7,
+    "rows": 1
+  },
+  {
+    "family": "Lythraceae",
+    "nutrient": "sugar",
+    "avg_value": 13.7,
+    "rows": 1
+  },
+  {
+    "family": "Malvaceae",
+    "nutrient": "calories",
+    "avg_value": 147.0,
+    "rows": 1
+  },
+  {
+    "family": "Malvaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 27.1,
+    "rows": 1
+  },
+  {
+    "family": "Malvaceae",
+    "nutrient": "fat",
+    "avg_value": 5.3,
+    "rows": 1
+  },
+  {
+    "family": "Malvaceae",
+    "nutrient": "protein",
+    "avg_value": 1.5,
+    "rows": 1
+  },
+  {
+    "family": "Malvaceae",
+    "nutrient": "sugar",
+    "avg_value": 6.75,
+    "rows": 1
+  },
+  {
+    "family": "Moraceae",
+    "nutrient": "calories",
+    "avg_value": 70.66666666666667,
+    "rows": 3
+  },
+  {
+    "family": "Moraceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 17.333333333333332,
+    "rows": 3
+  },
+  {
+    "family": "Moraceae",
+    "nutrient": "fat",
+    "avg_value": 0.22999999999999998,
+    "rows": 3
+  },
+  {
+    "family": "Moraceae",
+    "nutrient": "protein",
+    "avg_value": 1.32,
+    "rows": 3
+  },
+  {
+    "family": "Moraceae",
+    "nutrient": "sugar",
+    "avg_value": 14.4,
+    "rows": 3
+  },
+  {
+    "family": "Musaceae",
+    "nutrient": "calories",
+    "avg_value": 96.0,
+    "rows": 1
+  },
+  {
+    "family": "Musaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 22.0,
+    "rows": 1
+  },
+  {
+    "family": "Musaceae",
+    "nutrient": "fat",
+    "avg_value": 0.2,
+    "rows": 1
+  },
+  {
+    "family": "Musaceae",
+    "nutrient": "protein",
+    "avg_value": 1.0,
+    "rows": 1
+  },
+  {
+    "family": "Musaceae",
+    "nutrient": "sugar",
+    "avg_value": 17.2,
+    "rows": 1
+  },
+  {
+    "family": "Myrtaceae",
+    "nutrient": "calories",
+    "avg_value": 56.0,
+    "rows": 2
+  },
+  {
+    "family": "Myrtaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 11.0,
+    "rows": 2
+  },
+  {
+    "family": "Myrtaceae",
+    "nutrient": "fat",
+    "avg_value": 0.7,
+    "rows": 2
+  },
+  {
+    "family": "Myrtaceae",
+    "nutrient": "protein",
+    "avg_value": 1.6,
+    "rows": 2
+  },
+  {
+    "family": "Myrtaceae",
+    "nutrient": "sugar",
+    "avg_value": 6.0,
+    "rows": 2
+  },
+  {
+    "family": "Passifloraceae",
+    "nutrient": "calories",
+    "avg_value": 97.0,
+    "rows": 1
+  },
+  {
+    "family": "Passifloraceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 22.4,
+    "rows": 1
+  },
+  {
+    "family": "Passifloraceae",
+    "nutrient": "fat",
+    "avg_value": 0.7,
+    "rows": 1
+  },
+  {
+    "family": "Passifloraceae",
+    "nutrient": "protein",
+    "avg_value": 2.2,
+    "rows": 1
+  },
+  {
+    "family": "Passifloraceae",
+    "nutrient": "sugar",
+    "avg_value": 11.2,
+    "rows": 1
+  },
+  {
+    "family": "Rosaceae",
+    "nutrient": "calories",
+    "avg_value": 39.18181818181818,
+    "rows": 11
+  },
+  {
+    "family": "Rosaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 8.936363636363636,
+    "rows": 11
+  },
+  {
+    "family": "Rosaceae",
+    "nutrient": "fat",
+    "avg_value": 0.3118181818181818,
+    "rows": 11
+  },
+  {
+    "family": "Rosaceae",
+    "nutrient": "protein",
+    "avg_value": 0.6818181818181818,
+    "rows": 11
+  },
+  {
+    "family": "Rosaceae",
+    "nutrient": "sugar",
+    "avg_value": 6.901818181818182,
+    "rows": 11
+  },
+  {
+    "family": "Rutaceae",
+    "nutrient": "calories",
+    "avg_value": 35.8,
+    "rows": 5
+  },
+  {
+    "family": "Rutaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 8.734,
+    "rows": 5
+  },
+  {
+    "family": "Rutaceae",
+    "nutrient": "fat",
+    "avg_value": 0.2,
+    "rows": 5
+  },
+  {
+    "family": "Rutaceae",
+    "nutrient": "protein",
+    "avg_value": 0.644,
+    "rows": 5
+  },
+  {
+    "family": "Rutaceae",
+    "nutrient": "sugar",
+    "avg_value": 6.0,
+    "rows": 5
+  },
+  {
+    "family": "Salicaceae",
+    "nutrient": "calories",
+    "avg_value": 47.0,
+    "rows": 1
+  },
+  {
+    "family": "Salicaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 9.6,
+    "rows": 1
+  },
+  {
+    "family": "Salicaceae",
+    "nutrient": "fat",
+    "avg_value": 0.3,
+    "rows": 1
+  },
+  {
+    "family": "Salicaceae",
+    "nutrient": "protein",
+    "avg_value": 1.2,
+    "rows": 1
+  },
+  {
+    "family": "Salicaceae",
+    "nutrient": "sugar",
+    "avg_value": 8.1,
+    "rows": 1
+  },
+  {
+    "family": "Sapindaceae",
+    "nutrient": "calories",
+    "avg_value": 66.0,
+    "rows": 1
+  },
+  {
+    "family": "Sapindaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 17.0,
+    "rows": 1
+  },
+  {
+    "family": "Sapindaceae",
+    "nutrient": "fat",
+    "avg_value": 0.44,
+    "rows": 1
+  },
+  {
+    "family": "Sapindaceae",
+    "nutrient": "protein",
+    "avg_value": 0.8,
+    "rows": 1
+  },
+  {
+    "family": "Sapindaceae",
+    "nutrient": "sugar",
+    "avg_value": 15.0,
+    "rows": 1
+  },
+  {
+    "family": "Solanaceae",
+    "nutrient": "calories",
+    "avg_value": 74.0,
+    "rows": 1
+  },
+  {
+    "family": "Solanaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 3.9,
+    "rows": 1
+  },
+  {
+    "family": "Solanaceae",
+    "nutrient": "fat",
+    "avg_value": 0.2,
+    "rows": 1
+  },
+  {
+    "family": "Solanaceae",
+    "nutrient": "protein",
+    "avg_value": 0.9,
+    "rows": 1
+  },
+  {
+    "family": "Solanaceae",
+    "nutrient": "sugar",
+    "avg_value": 2.6,
+    "rows": 1
+  },
+  {
+    "family": "Vitaceae",
+    "nutrient": "calories",
+    "avg_value": 69.0,
+    "rows": 1
+  },
+  {
+    "family": "Vitaceae",
+    "nutrient": "carbohydrates",
+    "avg_value": 18.1,
+    "rows": 1
+  },
+  {
+    "family": "Vitaceae",
+    "nutrient": "fat",
+    "avg_value": 0.16,
+    "rows": 1
+  },
+  {
+    "family": "Vitaceae",
+    "nutrient": "protein",
+    "avg_value": 0.72,
+    "rows": 1
+  },
+  {
+    "family": "Vitaceae",
+    "nutrient": "sugar",
+    "avg_value": 16.0,
+    "rows": 1
+  }
+]
