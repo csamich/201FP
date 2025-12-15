@@ -1,0 +1,22 @@
+Spells Database Summary (2014 SRD)
+========================================
+
+Spells by School (Top 10)
+- Evocation: 60 (18.81%)
+- Transmutation: 59 (18.50%)
+- Conjuration: 52 (16.30%)
+- Abjuration: 39 (12.23%)
+- Divination: 29 (9.09%)
+- Enchantment: 29 (9.09%)
+- Illusion: 27 (8.46%)
+- Necromancy: 24 (7.52%)
+
+Counts by School and Level Bucket
+- Evocation: 1–5 = 37, 6–9 = 16
+- Transmutation: 1–5 = 39, 6–9 = 14
+- Conjuration: 1–5 = 30, 6–9 = 18
+- Abjuration: 1–5 = 29, 6–9 = 9
+- Divination: 1–5 = 24, 6–9 = 3
+- Enchantment: 1–5 = 21, 6–9 = 7
+- Illusion: 1–5 = 21, 6–9 = 5
+- Necromancy: 1–5 = 12, 6–9 = 10
