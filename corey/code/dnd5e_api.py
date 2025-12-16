@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import random
 import time
 from typing import Dict, List, Optional
@@ -35,19 +33,12 @@ def get_json_with_retries(
 
 
 def list_spells(session: requests.Session) -> List[Dict]:
-    """Returns list of {'index','name','url'}."""
     url = f"{API_ROOT_2014}/spells"
     data = get_json_with_retries(session, url)
     return data.get("results", [])
 
 
 def fetch_spell_detail_trimmed(session: requests.Session, spell_url: str) -> Dict:
-    """
-    Fetch spell detail and return ONLY:
-      - name
-      - school_name
-      - level
-    """
     if not spell_url.startswith("http"):
         spell_url = "https://www.dnd5eapi.co" + spell_url
 

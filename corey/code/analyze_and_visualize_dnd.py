@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import sqlite3
 from typing import Dict, List, Tuple
 from pathlib import Path
@@ -30,11 +28,6 @@ def spells_by_school_counts(conn: sqlite3.Connection) -> List[Tuple[str, int]]:
 
 
 def grouped_counts_by_school_level_bucket(conn: sqlite3.Connection) -> List[Tuple[str, str, int]]:
-    """
-    Returns rows: (school_name, bucket_label, count)
-    bucket_label is '1–5' or '6–9'
-    Uses JOIN spells -> schools -> levels
-    """
     return conn.execute(
         """
         SELECT
@@ -117,10 +110,6 @@ def pie_spells_by_school(school_counts: List[Tuple[str, int]], out_path: str = "
 
 
 def pastel_grouped_bar(bucket_counts: List[Tuple[str, str, int]], out_path: str = "spells_level_buckets_by_school.png") -> None:
-    """
-    Pastel grouped bar: for each school, bars for 1–5 and 6–9 counts.
-    """
-    # Convert to simple "long-form" lists (no pandas required)
     schools: List[str] = []
     buckets: List[str] = []
     counts: List[int] = []
