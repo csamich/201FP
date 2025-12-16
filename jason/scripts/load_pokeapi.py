@@ -2,7 +2,7 @@ import sqlite3
 from pathlib import Path
 import requests
 
-DB_PATH = Path(__file__).resolve().parents[1] / "GamerSoups_final_project.sqlite"
+DB_PATH = Path(__file__).resolve().parents[2] / "GamerSoups_final_project.sqlite"
 BASE = "https://pokeapi.co/api/v2/pokemon/"
 BATCH = 25
 

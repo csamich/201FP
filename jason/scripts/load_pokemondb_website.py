@@ -3,7 +3,7 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-DB_PATH = Path(__file__).resolve().parents[1] / "GamerSoups_final_project.sqlite"
+DB_PATH = Path(__file__).resolve().parents[2] / "GamerSoups_final_project.sqlite"
 URL = "https://pokemondb.net/pokedex/all"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 BATCH = 25

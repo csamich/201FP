@@ -83,7 +83,7 @@ def beansGraph(conn, curr):
     plt.show()
 
 #
-DB_PATH = Path(__file__).resolve().parents[2] / "GamerSoups_final_project.sqlite"
+DB_PATH = Path(__file__).resolve().parents[1] / "GamerSoups_final_project.sqlite"
 #filename = "GamerSoups_final_project.sqlite"
 conn = sqlite3.connect(DB_PATH)
 curr = conn.cursor()

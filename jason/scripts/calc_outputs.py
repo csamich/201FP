@@ -3,7 +3,7 @@ import json
 import sqlite3
 from pathlib import Path
 
-DB_PATH = Path(__file__).resolve().parents[1] / "GamerSoups_final_project.sqlite"
+DB_PATH = Path(__file__).resolve().parents[2] / "GamerSoups_final_project.sqlite"
 OUT_DIR = Path(__file__).resolve().parents[1] / "outputs"
 
 def ensure_outdir():

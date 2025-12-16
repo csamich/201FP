@@ -3,10 +3,10 @@ import sqlite3
 from pathlib import Path
 import matplotlib.pyplot as plt
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 DB_PATH = ROOT / "GamerSoups_final_project.sqlite"
-OUT_DIR = ROOT / "outputs"
-VIZ_DIR = ROOT / "viz"
+OUT_DIR = ROOT / "jason" / "outputs"
+VIZ_DIR = ROOT / "jason" / "viz"
 
 def ensure_dirs():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
