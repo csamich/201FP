@@ -73,7 +73,7 @@ def beansGraph(conn, curr):
     plt.ylabel("Counts")
     plt.show()
 
-filename = "GamerSoups_final_project.db"
+filename = "GamerSoups_final_project.sqlite"
 conn = sqlite3.connect(filename)
 curr = conn.cursor()
 loadTable(conn, curr)
